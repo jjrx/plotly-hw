@@ -1,1 +1,1 @@
-web: gunicorn biodiversity.app:app
+web: gunicorn app:app
